@@ -64,15 +64,15 @@ Here’s a visual comparison of the three recommendation approaches:
 
 1. **Traditional Recommendation**: Simple user-item matrix with predictions based on historical data.
 
-![Traditional Recommendation](path_to_traditional_recommendation_image.png)
+![Traditional Recommendation](./images/traditional-recommendation.png)
 
 2. **Hybrid Recommendation**: Combining multiple sources of information to make a more robust prediction.
 
-![Hybrid Recommendation](path_to_hybrid_recommendation_image.png)
+![Hybrid Recommendation](./images/result-of-hybrid.png)
 
 3. **LLM-based Recommendation**: Leveraging large language models to make context-aware and personalized recommendations.
 
-![LLM-based Recommendation](path_to_llm_recommendation_image.png)
+![LLM-based Recommendation](./images/results-of-llm-recommendation.png)
 
 ## Project Structure
 
